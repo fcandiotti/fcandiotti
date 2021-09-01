@@ -2,8 +2,11 @@
 ### Olá, eu sou o Fernando Candiotti ✌️
 
  📖Estudando para ser um Dev Full Stack
+ 
  ❤️Apaixonado por Tecnologia
+ 
  🚧GitHub em Construção
+ 
  🤗Todo dia é um aprendizado
 
  ## Contatos:
