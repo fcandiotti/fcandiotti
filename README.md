@@ -1,9 +1,8 @@
 
 ### Olá, eu sou o Fernando Candiotti ✌️
 
- 📖Estudando para ser um Dev Full Stack
- 
- 🚧GitHub em Construção
+🚧Dev. Java em formação \o
+
  
 
  ## Contatos:
