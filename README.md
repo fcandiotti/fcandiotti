@@ -14,12 +14,11 @@
 
 ![FCandiotti GitHub stats](https://github-readme-stats.vercel.app/api?username=fcandiotti&show_icons=true&theme=dark)
 
-## Tecnologias que atualmente eu estudo no meu dia
+## Tecnologias que atualmente eu estudo e trabalho no meu dia
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="Oracle" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+ <img align="center" alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+ <img align="center" alt="Mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
-
-
-![Snake animation](https://github.com/fcandiotti/fcandiotti/blob/output/github-contribution-grid-snake.svg)
